@@ -1,0 +1,71 @@
+.adminContainer {
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    width: 100%;
+
+}
+
+.searchUser {
+    display: flex;
+    flex-direction: row;
+    height: 10vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchLabel {
+    font-size: 4vw;
+    width: 30%;
+    text-align: center;
+    font-size: 5vw;
+
+}
+
+.searchInput {
+    width: 50vw;
+    height: 4vh;
+    font-size: 3vh;
+
+}
+
+.searchButton {
+margin-left: 10px;
+height: 4vh;
+
+}
+
+.ul {
+height: 90vh;
+width: 100vw;
+}
+
+.li {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    display: flex;
+    width: 100vw;
+    height: 20vh;
+} 
+
+
+.h5 {
+    font-size: 4vw;
+    font-weight: 200;
+    height: 6vh;
+    align-content: center;
+    text-align: center;
+    margin: 10px;
+}
+
+.deleteButton {
+    margin: 20px;
+    height: 4vh;
+    width: 6vw;
+    align-content: center;
+    
+
+
+}
